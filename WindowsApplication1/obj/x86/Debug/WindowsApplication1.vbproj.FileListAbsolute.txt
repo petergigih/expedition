@@ -1,0 +1,194 @@
+c:\users\msi gaming\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\msi gaming\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\msi gaming\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\msi gaming\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormLogin.resources
+c:\users\msi gaming\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMenuUtama.resources
+c:\users\msi gaming\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+c:\users\msi gaming\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\msi gaming\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+c:\users\msi gaming\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+c:\users\msi gaming\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterAdmin.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterPelanggan.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterBarang.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormTransaksi.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplicationpet\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplicationpet\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplicationpet\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplicationpet\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplicationpet\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplicationpet\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplicationpet\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormLogin.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplicationpet\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterAdmin.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplicationpet\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterBarang.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplicationpet\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterPelanggan.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplicationpet\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMenuUtama.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplicationpet\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplicationpet\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplicationpet\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormTransJual.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplicationpet\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormLapJual.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormLapJual.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormLogin.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterAdmin.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterBarang.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterPelanggan.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMenuUtama.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormTransJual.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.Crystal.dll
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.Crystal.dll
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.Crystal.dll
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\AxInterop.Crystal.dll
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\Coding\Project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.Crystal.dll
+D:\Coding\Project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Coding\Project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\Coding\Project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Coding\Project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Coding\Project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Coding\Project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Coding\Project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Coding\Project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Coding\Project\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.Crystal.dll
+D:\Coding\Project\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.Crystal.dll
+D:\Coding\Project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormLapJual.resources
+D:\Coding\Project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormLogin.resources
+D:\Coding\Project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterAdmin.resources
+D:\Coding\Project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterBarang.resources
+D:\Coding\Project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterPelanggan.resources
+D:\Coding\Project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMenuUtama.resources
+D:\Coding\Project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormTransJual.resources
+D:\Coding\Project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Coding\Project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Coding\Project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\Coding\Project\Project 1 Expedisi\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Coding\Project\Project 1 Expedisi\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Coding\Project\Project 1 Expedisi\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Coding\Project\Project 1 Expedisi\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.Crystal.dll
+D:\Coding\Project\Project 1 Expedisi\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.Crystal.dll
+D:\Coding\Project\Project 1 Expedisi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\Coding\Project\Project 1 Expedisi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.Crystal.dll
+D:\Coding\Project\Project 1 Expedisi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Coding\Project\Project 1 Expedisi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\Coding\Project\Project 1 Expedisi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormLapJual.resources
+D:\Coding\Project\Project 1 Expedisi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormLogin.resources
+D:\Coding\Project\Project 1 Expedisi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterAdmin.resources
+D:\Coding\Project\Project 1 Expedisi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterBarang.resources
+D:\Coding\Project\Project 1 Expedisi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterPelanggan.resources
+D:\Coding\Project\Project 1 Expedisi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMenuUtama.resources
+D:\Coding\Project\Project 1 Expedisi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormTransJual.resources
+D:\Coding\Project\Project 1 Expedisi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Coding\Project\Project 1 Expedisi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Coding\Project\Project 1 Expedisi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Coding\Project\Project 1 Expedisi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Coding\Project\Project 1 Expedisi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Coding\Project\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.Crystal.dll
+D:\Coding\Project\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Coding\Project\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\Coding\Project\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Coding\Project\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Coding\Project\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.Crystal.dll
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\AxInterop.Crystal.dll
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormBarang.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormLapJual.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormLogin.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterAdmin.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterBarang.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterPelanggan.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMenuUtama.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormSopir.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormTransaksi.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormTransJual.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.Crystal.dll
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.Crystal.dll
+D:\Coding\Project\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.Crystal.dll
+D:\Coding\Project\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Coding\Project\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\Coding\Project\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Coding\Project\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Coding\Project\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Coding\Project\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Coding\Project\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Coding\Project\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Coding\Project\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.Crystal.dll
+D:\Coding\Project\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.Crystal.dll
+D:\Coding\Project\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\Coding\Project\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormBarang.resources
+D:\Coding\Project\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormLapJual.resources
+D:\Coding\Project\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormLogin.resources
+D:\Coding\Project\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterAdmin.resources
+D:\Coding\Project\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterBarang.resources
+D:\Coding\Project\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterPelanggan.resources
+D:\Coding\Project\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMenuUtama.resources
+D:\Coding\Project\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormSopir.resources
+D:\Coding\Project\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormTransaksi.resources
+D:\Coding\Project\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormTransJual.resources
+D:\Coding\Project\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Coding\Project\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.Crystal.dll
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\AxInterop.Crystal.dll
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.Crystal.dll
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.Crystal.dll
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormBarang.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormLapJual.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormLogin.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterAdmin.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterBarang.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterPelanggan.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMenuUtama.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormSopir.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormTransaksi.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormTransJual.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Coding\Project\Project 1 Expedisi 1.1,1,1\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.Crystal.dll
+D:\Coding\Project\Project 1 Expedisi 1.1,1,1\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Coding\Project\Project 1 Expedisi 1.1,1,1\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\Coding\Project\Project 1 Expedisi 1.1,1,1\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Coding\Project\Project 1 Expedisi 1.1,1,1\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Coding\Project\Project 1 Expedisi 1.1,1,1\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Coding\Project\Project 1 Expedisi 1.1,1,1\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Coding\Project\Project 1 Expedisi 1.1,1,1\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Coding\Project\Project 1 Expedisi 1.1,1,1\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Coding\Project\Project 1 Expedisi 1.1,1,1\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.Crystal.dll
+D:\Coding\Project\Project 1 Expedisi 1.1,1,1\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.Crystal.dll
+D:\Coding\Project\Project 1 Expedisi 1.1,1,1\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\Coding\Project\Project 1 Expedisi 1.1,1,1\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormBarang.resources
+D:\Coding\Project\Project 1 Expedisi 1.1,1,1\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormLapJual.resources
+D:\Coding\Project\Project 1 Expedisi 1.1,1,1\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormLogin.resources
+D:\Coding\Project\Project 1 Expedisi 1.1,1,1\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterAdmin.resources
+D:\Coding\Project\Project 1 Expedisi 1.1,1,1\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterBarang.resources
+D:\Coding\Project\Project 1 Expedisi 1.1,1,1\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterPelanggan.resources
+D:\Coding\Project\Project 1 Expedisi 1.1,1,1\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMenuUtama.resources
+D:\Coding\Project\Project 1 Expedisi 1.1,1,1\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormSopir.resources
+D:\Coding\Project\Project 1 Expedisi 1.1,1,1\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormTransaksi.resources
+D:\Coding\Project\Project 1 Expedisi 1.1,1,1\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormTransJual.resources
+D:\Coding\Project\Project 1 Expedisi 1.1,1,1\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Coding\Project\Project 1 Expedisi 1.1,1,1\Project 1 Expedisi 1.1.1\Project 1 Expedisi 1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
